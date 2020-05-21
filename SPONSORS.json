@@ -1,18 +1,18 @@
 [
     {
         "embed": {
-            "description": "This is a youtube channel that provides high quality reddit content. Videos are uploaded regularly so you are never out of funny, interesting or even creepy content!",
+            "description": "This is a modmail bot",
             "color": 15114050,
             "footer": {
-                "icon_url": "https://i.imgur.com/fvNKUks.png",
-                "text": "I am a robot, son of Daniel (UK)"
+                "icon_url": "https://i.imgur.com/fvNdwadwadaKUks.png",
+                "text": "Nothing to add here"
             },
             "thumbnail": {
                 "url": "https://i.imgur.com/WyzaPKY.png"
             },
             "author": {
                 "name": "nissy",
-                "url": "https://www.youtube.com/channel/edwafaweycTCwQ?sub_confirmation=1",
+                "url": "https://www.youtube.com/channel/UCK77m8EghpoDTVrHVAZLQsQ?view_as=subscriber",
                 "icon_url": "https://i.imgur.com/WydwadwaszaPKY.png"
             },
             "fields": [
@@ -30,11 +30,11 @@
             "url": "https://discord.gg/starveio",
             "color": 13003681,
             "footer": {
-                "icon_url": "https://imgur.com/Mrdddc9pLd.gif",
+                "icon_url": "https://imgur.com/Mrddwadddc9pLd.gif",
                 "text": "frippin out the outside"
             },
             "thumbnail": {
-                "url": "https://imgur.com/Mrc9pLd.gif"
+                "url": "https://imgur.com/dwadawdsawdf"
             },
             "image": {
                 "url": "https://imgur.com/ZUFidwadL6b.gif"
@@ -46,8 +46,8 @@
             },
             "fields": [
                 {
-                    "name": "Discord 😁",
-                    "value": "Make sure to join our [Discord](https://discord.gg/starveio) We have weekly events, 24/7 chats and more!"
+                    "name": "Starveio Discord",
+                    "value": "Make sure to join this [Discord](https://discord.gg/starveio) \n A multiplayer survival game made not by me :D"
                 }
             ]
         }
