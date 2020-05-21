@@ -322,10 +322,8 @@ class Utility(commands.Cog):
         )
 
         embed.add_field(
-            name="Support the Developers",
-            value="This bot is completely free for everyone. We rely on kind individuals "
-            "like you to support us on [`Patreon`](https://patreon.com/kyber) (perks included) "
-            "to keep this bot free forever!",
+            name="Support the Developer",
+            value="Hey, this bot is free but you can support me on [`Patreon`](https://patreon.com/nissyy)",
             inline=False,
         )
 
@@ -338,7 +336,7 @@ class Utility(commands.Cog):
     async def sponsors(self, ctx):
         """Shows a list of sponsors."""
         resp = await self.bot.session.get(
-            "https://raw.githubusercontent.com/kyb3r/modmail/master/SPONSORS.json"
+            "https://raw.githubusercontent.com/mario69998/modmail/master/SPONSORS.json"
         )
         data = loads(await resp.text())
 
